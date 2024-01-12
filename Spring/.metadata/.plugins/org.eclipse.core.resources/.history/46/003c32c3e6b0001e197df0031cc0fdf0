@@ -1,0 +1,13 @@
+package com.demo.service;
+
+import com.demo.model.MyUser;
+
+public class LoginServiceImpl implements LoginService {
+
+	@Override
+	public MyUser validateUser(String unm, String passwd) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

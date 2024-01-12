@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=SpringMvcCrud/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.demo.service{LoginService.java[LoginService" modifiers="513" timestamp="1705021502485"/>
+    <typeInfo handle="=SpringMvcCrud/C:\/Program Files\/Java\/jdk1.8.0_311\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/=/maven.pomderived=/true=/&lt;javax.xml.ws.handler(LogicalMessageContext.class[LogicalMessageContext" modifiers="1537" timestamp="1693884970678"/>
+    <typeInfo handle="=SpringMvcCrud/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.demo.dao{LoginDao.java[LoginDao" modifiers="513" timestamp="1705021634983"/>
+    <typeInfo handle="=SpringMvcCrud/C:\/Program Files\/Java\/jdk1.8.0_311\/jre\/lib\/rt.jar=/javadoc_location=/https:\/\/docs.oracle.com\/javase\/8\/docs\/api\/=/=/maven.pomderived=/true=/&lt;javax.xml.ws(LogicalMessage.class[LogicalMessage" modifiers="1537" timestamp="1693884970678"/>
+</typeInfoHistroy>
